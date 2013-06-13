@@ -5,3 +5,8 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+Build
+build/*.js
+__Wrapper__.hs
+.shelly
+
